@@ -3,5 +3,11 @@
 
     <string name="hello">Hello World, MorpionActivity!</string>
     <string name="app_name">Morpion</string>
+    <string name="try_again">Déja joué</string>
+    <string name="Win">Gagné</string>
+    <string name="end_game">Partie terminée</string>
+    <string name="again">Voulez vous recommencer ?</string>
+    <string name="accept">Oui</string>
+    <string name="Refuse">Non</string>
 
 </resources>
